@@ -174,7 +174,3 @@ I'm open to **Senior QA Analyst**, **Technical Product Owner**, **Technical Proj
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarasofiademelo&show_icons=true&hide_border=true&title_color=1E3A5F&icon_color=3B82F6&text_color=334155&bg_color=FFFFFF" alt="GitHub stats" height="150">
 </p>
-
-<p align="center">
-  <sub>Built with care · Updated for 2026</sub>
-</p>
