@@ -168,9 +168,3 @@ I'm open to **Senior QA Analyst**, **Technical Product Owner**, **Technical Proj
     <img src="https://img.shields.io/badge/Reach%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarasofiademelo&show_icons=true&hide_border=true&title_color=1E3A5F&icon_color=3B82F6&text_color=334155&bg_color=FFFFFF" alt="GitHub stats" height="150">
-</p>
